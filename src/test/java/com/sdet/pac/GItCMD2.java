@@ -6,6 +6,8 @@ public class GItCMD2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("CLass 2 created");
+		
+		System.out.println("CHanges added");
 	}
 
 }
